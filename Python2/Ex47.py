@@ -13,8 +13,8 @@ values = {
     'December':334,
 }
 
-month = input('please enter the month you were born')
-day = int(input('please enter the day of that month you were born'))
+month = input('please enter the month you were born ')
+day = int(input('please enter the day of that month you were born '))
 month = month.capitalize()
 
 #cd stands for cumulative days (passed in a year)
