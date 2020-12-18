@@ -2,7 +2,7 @@ total_sum = 0
 total_re = 0
 
 while True:
-    no = int(input('please enter a number  '))
+    no = float(input('please enter a number  '))
     if no == 0:
         break
 
