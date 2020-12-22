@@ -10,7 +10,7 @@ while True:
         if age <= 2:
             pass
 
-        elif 3 < age < 12:
+        elif 3 <= age <= 12:
             total += 14
 
         elif age >= 65:
